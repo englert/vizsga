@@ -1,0 +1,2 @@
+# vizsga
+Ágazati alapvizsga
